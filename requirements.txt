@@ -1,5 +1,5 @@
-tensorflow
+torch==1.10.2
+torchvision==0.11.3
 numpy
 opencv-python-headless
-torch
-torchvision
+matplotlib
